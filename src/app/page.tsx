@@ -162,7 +162,7 @@ export default function LandingPage() {
       title="The Art of Natural Luxury"
       description="Ledora was born from the vision of merging timeless traditional beauty wisdom with modern, scientific innovation to create the ultimate skincare experience."
       subdescription="Our products are curated for those who believe that skincare should be an indulgence, not a routine. We source only the finest botanicals, ensuring every bottle meets our high standards for quality and sustainability."
-      imageSrc="http://img.b2bpic.net/free-photo/cosmetic-bottle-with-luxurious-art-nouveau-inspired-sun-relief-background_23-2151420715.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cosmetic-bottle-with-luxurious-art-nouveau-inspired-sun-relief-background_23-2151420715.jpg?_wi=1"
       imageAlt="Ledora luxury skincare brand story"
       mediaAnimation="blur-reveal"
       icon={Sparkles}
@@ -417,7 +417,7 @@ export default function LandingPage() {
         placeholder: "Your message",
         rows: 4,
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/cosmetic-bottle-with-luxurious-art-nouveau-inspired-sun-relief-background_23-2151420715.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/cosmetic-bottle-with-luxurious-art-nouveau-inspired-sun-relief-background_23-2151420715.jpg?_wi=2"
     />
   </div>
 
